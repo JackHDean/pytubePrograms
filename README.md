@@ -1,2 +1,2 @@
 # pytubePrograms
-A few programs created by using the Python package, Pytube.
+A few programs created by using the Python module, Pytube.
